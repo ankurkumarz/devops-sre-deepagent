@@ -14,7 +14,7 @@ Multi-agent architecture with an **Orchestrator Agent** coordinating specialized
 
 ## Technology Stack
 
-- **LangGraph DeepAgent**: Multi-agent orchestration
+- **LangGraph DeepAgent**: Multi-agent orchestration, Deep Agent is n Agent harness built using LangChain as framework (for tools, model access) and LangGraph as Runtime (for checkpoints, memory)
 - **LiteLLM**: Unified LLM provider access
 - **LangSmith**: Observability and tracing
 - **MCP Servers** (via [Docker Hub](https://hub.docker.com/mcp)):
