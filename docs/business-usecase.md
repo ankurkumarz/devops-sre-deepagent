@@ -23,7 +23,7 @@ Implement a **production-grade, multi-agent AI assistant** that functions as a v
 - **Infrastructure Inspection**: Kubernetes cluster, pod, service, event, and log analysis. It can automatically discover and map complex application environments, identify performance anomalies and pinpoint the precise cause of problems in real time, significantly reducing manual effort and mean time to repair (MTTR). 
 - **Configuration Correlation**: CMDB and configuration data analysis using text-to-query patterns  
 - **Knowledge Retrieval**: Internal knowledge base and Agentic RAG for known failure patterns  
-- **Incident Management**: Automated creation, update, and correlation of incidents in ITSM systems  
+- **Incident Management**: Automated creation, update, and correlation of incidents in ITSM systems. Agentic AI-driven investigations to help SREs, IT operations and cloud engineering teams rapidly diagnose, troubleshoot and remediate operational issues.
 - **Code Awareness**: Inspection of recent code changes, issues, and pull requests with remediation suggestions  
 
 Production and SRE operators remain in control through confidence thresholds, approval workflows, and escalation guardrails.
@@ -39,6 +39,11 @@ Production and SRE operators remain in control through confidence thresholds, ap
 - Increased platform stability and improved customer experience  
 
 ---
+
+## Use-cases
+
+- **IT operations**: IT operations teams responsible for live production environments are tasked with ensuring that applications and services are available, responsive and performant at all times — and especially during periods of high demand. Automated Agentic AI platforms allow these teams to be alerted when issues are detected, and make it possible to interrogate the data to identify the underlying cause.
+- **Platform engineering**: Platform engineers’ use of observability, incident resolution, and related platforms resembles that of IT operations as well as software development. AI-driven Agentic platform help these teams ensure that production environments consistently meet service-level objectives (SLOs), in addition to supporting data-driven continuous improvement and platform evolution. Platform engineering can focus on strategic initiatives as the mundane and repetitive tasks are handled by AI agents.
 
 ## Why Now
 
